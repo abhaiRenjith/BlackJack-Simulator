@@ -54,7 +54,7 @@ public class blackJack {
                 this.cards.add(i + " " + k);
             }
         }
-        System.out.println(getCards());
+
     }
 
     /**
